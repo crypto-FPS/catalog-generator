@@ -13,3 +13,4 @@ venv/
 Thumbs.db
 .vscode/
 .ipynb_checkpoints/
+.idea/
